@@ -1,0 +1,16 @@
+*{
+}
+
+.bigslide{
+	float: left;
+	border: solid red 5px;
+	height: 400px;
+	width: 600px;
+}
+
+.smalltab{
+	float: left;
+	border: solid blue 5px;
+	height: 400px;
+	width: 30px;
+}
